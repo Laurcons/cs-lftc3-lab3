@@ -1,0 +1,10 @@
+deci a va fi 1
+deci b va fi 1
+deci n va fi 15
+cât timp nu n egal 15 fă
+  deci c va fi a plus b
+  a îi b
+  b îi c
+gata
+hai scrie „Al 15-lea număr Fibbonacci este:”
+hai scrie b

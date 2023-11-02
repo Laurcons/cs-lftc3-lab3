@@ -1,0 +1,191 @@
+[
+  {
+    "type": "reserved",
+    "key": "deci"
+  },
+  {
+    "type": "identifier",
+    "key": "a"
+  },
+  {
+    "type": "reserved",
+    "key": "va fi"
+  },
+  {
+    "type": "literal",
+    "key": "LIT_555fb4c785b97ecd4bfa606f22dfe11cce9d3059",
+    "value": 1
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "reserved",
+    "key": "deci"
+  },
+  {
+    "type": "identifier",
+    "key": "b"
+  },
+  {
+    "type": "reserved",
+    "key": "va fi"
+  },
+  {
+    "type": "literal",
+    "key": "LIT_555fb4c785b97ecd4bfa606f22dfe11cce9d3059",
+    "value": 1
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "reserved",
+    "key": "deci"
+  },
+  {
+    "type": "identifier",
+    "key": "n"
+  },
+  {
+    "type": "reserved",
+    "key": "va fi"
+  },
+  {
+    "type": "literal",
+    "key": "LIT_beec301160242b9b37198fb5e263e0b2cd901984",
+    "value": 15
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "reserved",
+    "key": "cât timp"
+  },
+  {
+    "type": "reserved",
+    "key": "nu"
+  },
+  {
+    "type": "identifier",
+    "key": "n"
+  },
+  {
+    "type": "reserved",
+    "key": "egal"
+  },
+  {
+    "type": "literal",
+    "key": "LIT_beec301160242b9b37198fb5e263e0b2cd901984",
+    "value": 15
+  },
+  {
+    "type": "reserved",
+    "key": "fă"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "reserved",
+    "key": "deci"
+  },
+  {
+    "type": "identifier",
+    "key": "c"
+  },
+  {
+    "type": "reserved",
+    "key": "va fi"
+  },
+  {
+    "type": "identifier",
+    "key": "a"
+  },
+  {
+    "type": "reserved",
+    "key": "plus"
+  },
+  {
+    "type": "identifier",
+    "key": "b"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "identifier",
+    "key": "a"
+  },
+  {
+    "type": "reserved",
+    "key": "îi"
+  },
+  {
+    "type": "identifier",
+    "key": "b"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "identifier",
+    "key": "b"
+  },
+  {
+    "type": "reserved",
+    "key": "îi"
+  },
+  {
+    "type": "identifier",
+    "key": "c"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "reserved",
+    "key": "gata"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "reserved",
+    "key": "hai"
+  },
+  {
+    "type": "identifier",
+    "key": "scrie"
+  },
+  {
+    "type": "literal",
+    "key": "LIT_b0d426f6254e952054875e6c7435ab35be315ec0",
+    "value": "Al 15-lea număr Fibbonacci este:"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "reserved",
+    "key": "hai"
+  },
+  {
+    "type": "identifier",
+    "key": "scrie"
+  },
+  {
+    "type": "identifier",
+    "key": "b"
+  }
+]

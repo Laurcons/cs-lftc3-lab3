@@ -1,0 +1,40 @@
+[
+  {
+    "name": "LIT_555fb4c785b97ecd4bfa606f22dfe11cce9d3059",
+    "value": {
+      "_value": 1
+    }
+  },
+  {
+    "name": "LIT_b0d426f6254e952054875e6c7435ab35be315ec0",
+    "value": {
+      "_value": "Al 15-lea număr Fibbonacci este:"
+    }
+  },
+  {
+    "name": "LIT_beec301160242b9b37198fb5e263e0b2cd901984",
+    "value": {
+      "_value": 15
+    }
+  },
+  {
+    "name": "a",
+    "value": null
+  },
+  {
+    "name": "b",
+    "value": null
+  },
+  {
+    "name": "c",
+    "value": null
+  },
+  {
+    "name": "n",
+    "value": null
+  },
+  {
+    "name": "scrie",
+    "value": null
+  }
+]

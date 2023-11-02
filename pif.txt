@@ -1,0 +1,282 @@
+[
+  {
+    "type": "reserved",
+    "key": "deci"
+  },
+  {
+    "type": "identifier",
+    "key": "a"
+  },
+  {
+    "type": "reserved",
+    "key": "va fi"
+  },
+  {
+    "type": "reserved",
+    "key": "hai"
+  },
+  {
+    "type": "identifier",
+    "key": "citește"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "reserved",
+    "key": "deci"
+  },
+  {
+    "type": "identifier",
+    "key": "b"
+  },
+  {
+    "type": "reserved",
+    "key": "va fi"
+  },
+  {
+    "type": "reserved",
+    "key": "hai"
+  },
+  {
+    "type": "identifier",
+    "key": "citește"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "reserved",
+    "key": "deci"
+  },
+  {
+    "type": "identifier",
+    "key": "c"
+  },
+  {
+    "type": "reserved",
+    "key": "va fi"
+  },
+  {
+    "type": "reserved",
+    "key": "hai"
+  },
+  {
+    "type": "identifier",
+    "key": "citește"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "reserved",
+    "key": "dacă"
+  },
+  {
+    "type": "identifier",
+    "key": "a"
+  },
+  {
+    "type": "reserved",
+    "key": "mai mare decât"
+  },
+  {
+    "type": "identifier",
+    "key": "b"
+  },
+  {
+    "type": "identifier",
+    "key": "fă"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "reserved",
+    "key": "dacă"
+  },
+  {
+    "type": "identifier",
+    "key": "a"
+  },
+  {
+    "type": "reserved",
+    "key": "mai mare decât"
+  },
+  {
+    "type": "identifier",
+    "key": "c"
+  },
+  {
+    "type": "identifier",
+    "key": "fă"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "reserved",
+    "key": "hai"
+  },
+  {
+    "type": "identifier",
+    "key": "scrie"
+  },
+  {
+    "type": "identifier",
+    "key": "a"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "reserved",
+    "key": "gata"
+  },
+  {
+    "type": "reserved",
+    "key": "altfel"
+  },
+  {
+    "type": "identifier",
+    "key": "fă"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "reserved",
+    "key": "hai"
+  },
+  {
+    "type": "identifier",
+    "key": "scrie"
+  },
+  {
+    "type": "identifier",
+    "key": "c"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "identifier",
+    "key": "gata"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "reserved",
+    "key": "gata"
+  },
+  {
+    "type": "reserved",
+    "key": "altfel"
+  },
+  {
+    "type": "identifier",
+    "key": "fă"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "reserved",
+    "key": "dacă"
+  },
+  {
+    "type": "identifier",
+    "key": "b"
+  },
+  {
+    "type": "reserved",
+    "key": "mai mare decât"
+  },
+  {
+    "type": "identifier",
+    "key": "c"
+  },
+  {
+    "type": "identifier",
+    "key": "fă"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "reserved",
+    "key": "hai"
+  },
+  {
+    "type": "identifier",
+    "key": "scrie"
+  },
+  {
+    "type": "identifier",
+    "key": "b"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "reserved",
+    "key": "gata"
+  },
+  {
+    "type": "reserved",
+    "key": "altfel"
+  },
+  {
+    "type": "identifier",
+    "key": "fă"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "reserved",
+    "key": "hai"
+  },
+  {
+    "type": "identifier",
+    "key": "scrie"
+  },
+  {
+    "type": "identifier",
+    "key": "c"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "identifier",
+    "key": "gata"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  },
+  {
+    "type": "identifier",
+    "key": "gata"
+  },
+  {
+    "type": "reserved",
+    "key": "DOT"
+  }
+]

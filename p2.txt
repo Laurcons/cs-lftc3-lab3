@@ -1,0 +1,16 @@
+deci a va fi hai citește
+deci b va fi hai citește
+deci c va fi hai citește
+  dacă a mai mare decât b fă
+    dacă a mai mare decât c fă
+      hai scrie a
+    gata altfel fă
+      hai scrie c
+    gata
+  gata altfel fă
+    dacă b mai mare decât c fă
+    hai scrie b
+    gata altfel fă
+      hai scrie c
+  gata
+gata

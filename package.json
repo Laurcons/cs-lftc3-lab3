@@ -1,0 +1,19 @@
+{
+  "name": "lab2",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "bun test --watch",
+    "start": "bun run --watch src/index.ts"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/object-hash": "^3.0.5",
+    "object-hash": "^3.0.0"
+  }
+}
