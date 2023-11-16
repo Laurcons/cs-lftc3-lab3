@@ -6,7 +6,7 @@
 
 Deterministic Finite Automaton implementation.
 
-Input files are written in JSON (which is directly transposable in JavaScript). Tests are made in `fa.test.ts` and all of them pass.
+Input files are written in JSON (which is directly transposable in JavaScript). Tests are made in `src/fa.test.ts` and all of them pass.
 ```
 bun test v1.0.11 (f7f6233e)
 
