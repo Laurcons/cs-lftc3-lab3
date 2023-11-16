@@ -1,0 +1,17 @@
+{
+  "$schema": "./fa.schema.json",
+  "states": ["q", "r", "s"],
+  "initialState": "q",
+  "finalStates": ["s"],
+  "transitions": [
+    { "from": "q", "to": "r", "via": "„" },
+    {
+      "from": "r",
+      "to": "r",
+      "isSpecial": true,
+      "via": "anyOneUnicode",
+      "except": "”"
+    },
+    { "from": "r", "to": "s", "via": "”" }
+  ]
+}

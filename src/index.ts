@@ -1,5 +1,6 @@
 import { Scanner } from './scanner';
 import { SymbolTable } from './symbol-table';
+import 'fa-parser';
 
 const inP = await Bun.file('p1.txt').text();
 const tokens = (await Bun.file('tokens.txt').text()).split('\n');

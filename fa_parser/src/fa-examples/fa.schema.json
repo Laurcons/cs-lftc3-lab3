@@ -1,0 +1,93 @@
+{
+  "$ref": "#/definitions/IFAConfig",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "definitions": {
+    "IFAConfig": {
+      "properties": {
+        "finalStates": {
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        },
+        "initialState": {
+          "type": "string"
+        },
+        "states": {
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        },
+        "transitions": {
+          "items": {
+            "$ref": "#/definitions/ITransition"
+          },
+          "type": "array"
+        }
+      },
+      "required": [
+        "states",
+        "initialState",
+        "finalStates",
+        "transitions"
+      ],
+      "type": "object"
+    },
+    "ITransition": {
+      "anyOf": [
+        {
+          "properties": {
+            "from": {
+              "type": "string"
+            },
+            "isSpecial": {
+              "const": false,
+              "type": "boolean"
+            },
+            "to": {
+              "type": "string"
+            },
+            "via": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "from",
+            "to",
+            "via"
+          ],
+          "type": "object"
+        },
+        {
+          "properties": {
+            "except": {
+              "type": "string"
+            },
+            "from": {
+              "type": "string"
+            },
+            "isSpecial": {
+              "const": true,
+              "type": "boolean"
+            },
+            "to": {
+              "type": "string"
+            },
+            "via": {
+              "const": "anyOneUnicode",
+              "type": "string"
+            }
+          },
+          "required": [
+            "from",
+            "isSpecial",
+            "to",
+            "via"
+          ],
+          "type": "object"
+        }
+      ]
+    }
+  }
+}
