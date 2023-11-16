@@ -1,0 +1,29 @@
+{
+  "$schema": "./fa.schema.json",
+  "states": ["q", "r"],
+  "initialState": "q",
+  "finalStates": ["r"],
+  "transitions": [
+    { "from": "q", "to": "r", "via": "0" },
+    { "from": "q", "to": "r", "via": "1" },
+    { "from": "q", "to": "r", "via": "2" },
+    { "from": "q", "to": "r", "via": "3" },
+    { "from": "q", "to": "r", "via": "4" },
+    { "from": "q", "to": "r", "via": "5" },
+    { "from": "q", "to": "r", "via": "6" },
+    { "from": "q", "to": "r", "via": "7" },
+    { "from": "q", "to": "r", "via": "8" },
+    { "from": "q", "to": "r", "via": "9" },
+
+    { "from": "r", "to": "r", "via": "0" },
+    { "from": "r", "to": "r", "via": "1" },
+    { "from": "r", "to": "r", "via": "2" },
+    { "from": "r", "to": "r", "via": "3" },
+    { "from": "r", "to": "r", "via": "4" },
+    { "from": "r", "to": "r", "via": "5" },
+    { "from": "r", "to": "r", "via": "6" },
+    { "from": "r", "to": "r", "via": "7" },
+    { "from": "r", "to": "r", "via": "8" },
+    { "from": "r", "to": "r", "via": "9" }
+  ]
+}

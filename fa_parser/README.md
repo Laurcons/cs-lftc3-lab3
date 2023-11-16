@@ -1,8 +1,8 @@
 # Lab 4: FA parser
 
-[Finite Automaton Parser implementation repo](https://github.com/Laurcons/cs-lftc3-lab3/tree/lab4/fa_parser/src)
+[Finite Automaton Parser implementation repo](https://github.com/Laurcons/cs-lftc3-lab3/tree/lab4/fa_parser)
 
-[See integration in the previous lab Scanner here](https://github.com/Laurcons/cs-lftc3-lab3/tree/lab4)
+This lab is NOT integrated into the previous lab's Scanner implementation. That one still uses RegEx.
 
 Deterministic Finite Automaton implementation.
 
